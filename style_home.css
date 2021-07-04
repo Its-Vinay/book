@@ -308,7 +308,7 @@
     }
     #review .box-container .review-slider .box .image{
         position: absolute;
-        top: 0;
+        top: 2rem;
         margin: 0;
     }
     #review .box-container .review-slider .box .comment p{
@@ -399,6 +399,12 @@
   .shape h2{
     text-align: center;
     margin-top: 5.5rem;
+}
+
+#review .box-container .review-slider .box .image{
+  position: absolute;
+  top: 2rem;
+  margin: 0;
 }
   .product-slider .product-card {
     height: 22rem;
